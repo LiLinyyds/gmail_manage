@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#access_token
+accounts/
+credentials.json
+token.pickle
